@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Since the Canvas listing won't let me submit a link, I'm uploading this file instead. Here's the link I'd have used: https://github.com/DuncanBrasher-Ivy/SDEV220-Assignments/blob/main/M02/DjangoTutorial/M02_CL_Test.sh
+
 mkdir -p M02_CL_Test
 cd M02_CL_Test
 
