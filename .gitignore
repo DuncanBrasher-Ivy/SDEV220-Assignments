@@ -9,3 +9,5 @@ pyvenv.cfg
 
 __pycache__
 
+db.sqlite3
+
