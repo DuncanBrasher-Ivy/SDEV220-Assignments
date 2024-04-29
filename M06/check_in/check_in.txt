@@ -1,0 +1,4 @@
+- Git Repo: https://github.com/DuncanBrasher-Ivy/SDEV220-FinalProject
+- Project Board: https://github.com/users/DuncanBrasher-Ivy/projects/1
+- Live Deployed Page: https://dbrasher5.pythonanywhere.com
+
