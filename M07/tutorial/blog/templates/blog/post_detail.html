@@ -1,0 +1,16 @@
+<header>
+    <h1><a href="/">M07 Tutorial Blog - Post Detail</a></h1>
+</header>
+
+
+{% block content %}
+    <article class="post">
+        {% if post.published_date %}
+            <time class="date">
+                {{ post.published_date }}
+            </time>
+        {% endif %}
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.text|linebreaksbr }}</p>
+    </article>
+{% endblock %}
